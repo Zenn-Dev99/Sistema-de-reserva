@@ -1,4 +1,6 @@
 # Sistema-de-reserva
+- Martin Infante Zuñiga
+- 1ra Seccion
 ## Diagrama de Caso de uso
 ### Errores
 - La relaciones, no se puede identificar si son include o extend
