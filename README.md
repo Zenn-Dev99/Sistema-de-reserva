@@ -24,4 +24,5 @@
 - El gestor de notificaciones al aplicar el patron bridge es suficiente, no nesesita conectar con otro nodo
 - La disponibilidad de salas tiene que ser controlada por el administrador, no por una apa, esto complemente el primer error
 ### Correccion
-![image](https://github.com/user-attachments/assets/a5edae3f-812d-4955-821c-6a3d3ec3abec)
+![image](https://github.com/user-attachments/assets/a46df9ef-d9c8-4056-8f7e-5a107e6964f7)
+
